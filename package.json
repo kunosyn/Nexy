@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.2.0",
-    "quick.db": "^7.1.3"
+    "qikdb": "^1.0.2"
   }
 }

@@ -1,5 +1,7 @@
+const client = require("../index.js");
+
 module.exports = {
-    execute ( client ) {
+    run: ()  => {
         client.on("message", (msg) => {
             console.log("Hello World.");
         });
